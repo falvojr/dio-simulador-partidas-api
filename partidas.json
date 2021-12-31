@@ -3,18 +3,17 @@
     "descricao": "Eliminatórias da Copa 2022",
     "mandante": {
       "nome": "Brasil",
-      "forca": 999,
-      "imagem": ""
+      "estrelas": 5,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.webp"
     },
     "visitante": {
       "nome": "Argentina",
-      "forca": 975,
-      "imagem": ""
+      "estrelas": 5,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.webp"
     },
     "estadio": {
-      "nome": "Arena Corinthians",
-      "capacidade": 65999,
-      "imagem": ""
+      "nome": "Maracanã",
+      "imagem": "https://live.staticflickr.com/3173/2941621090_15e2b9ff4f_b.jpg"
     }
   }  
 ]
