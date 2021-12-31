@@ -1,6 +1,10 @@
 [
   {
     "descricao": "Eliminatórias da Copa 2022",
+    "estadio": {
+      "nome": "Maracanã",
+      "imagem": "https://live.staticflickr.com/3173/2941621090_15e2b9ff4f_b.jpg"
+    },
     "mandante": {
       "nome": "Brasil",
       "estrelas": 5,
@@ -10,10 +14,6 @@
       "nome": "Argentina",
       "estrelas": 5,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
-    },
-    "estadio": {
-      "nome": "Maracanã",
-      "imagem": "https://live.staticflickr.com/3173/2941621090_15e2b9ff4f_b.jpg"
     }
   }  
 ]
