@@ -4,12 +4,12 @@
     "mandante": {
       "nome": "Brasil",
       "estrelas": 5,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.webp"
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
     },
     "visitante": {
       "nome": "Argentina",
       "estrelas": 5,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.webp"
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
     },
     "estadio": {
       "nome": "Maracanã",
